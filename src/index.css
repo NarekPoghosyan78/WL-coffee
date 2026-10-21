@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+
+@theme{
+  --color1: #6f1d1b;
+  --color2: #bb9457;
+  --color3: #432818;
+  --color4: #99582a;
+  --color5: #ffe6a7;
+}
+
+
+.dark{
+  --color1: #F6E7C1;
+  --color2: #2B1A12;
+  --color3: #1A120D;
+  --color4: #F6E7C1;
+  --color5: #4A2E1B;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

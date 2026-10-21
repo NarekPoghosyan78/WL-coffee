@@ -1,0 +1,142 @@
+{
+  "Header": {
+    "Home": "Home",
+    "OurCoffee": "Our Coffee",
+    "AboutUs": "About Us",
+    "Contact": "Contact"
+  },
+  "HomeHeroSection": {
+    "titleH1": "WL — With Love",
+    "titleH2": "Coffee, Made With Love.",
+    "text1": "At WL, we believe coffee is more than just a drink.",
+    "text2": "It's a feeling, a moment, a small pause in a busy day.",
+    "text3": "Every cup we create starts with carefully selected beans, rich aromas, and a passion for doing things beautifully. From the first morning espresso to a slow afternoon coffee with someone you love, we’re here to make every moment a little warmer.",
+    "text4": "Take a breath. Slow down. Enjoy the moment.",
+    "text5": "Because the best coffee is always made with love."
+  },
+  "Buttons": {
+    "ExploreBtn": "Explore Our Menu",
+    "DiscoverBtn": "Discover WL",
+    "SendMessageBtn": "Send Message"
+  },
+  "FilterButtons": {
+    "All": "All",
+    "Espresso": "Espresso",
+    "Filter": "Filter",
+    "Cold": "Cold",
+    "Sweet": "Sweet"
+  },
+  "OurCoffeeTitleSection": {
+    "titleH2": "Our Coffee",
+    "text": "Carefully selected beans, one cup at a time."
+  },
+  "CoffeeCards": {
+    "FirstCard": {
+      "name": "Espresso",
+      "text": "Rich, bold, short",
+      "price": "$4.5"
+    },
+    "SecondCard": {
+      "name": "Cappuccino",
+      "text": "Silky milk foam",
+      "price": "$5"
+    },
+    "ThirdCard": {
+      "name": "Latte",
+      "text": "Smooth and mellow",
+      "price": "$5.5"
+    },
+    "FourthCard": {
+      "name": "V60 Filter",
+      "text": "Clean, bright notes",
+      "price": "$6"
+    },
+    "FifthCard": {
+      "name": "Cold Brew",
+      "text": "Slow-steeped, 12h",
+      "price": "$7"
+    },
+    "SixthCard": {
+      "name": "Mocha",
+      "text": "Chocolate and espresso",
+      "price": "$5.5"
+    },
+    "SeventhCard": {
+      "name": "Americano",
+      "text": "Espresso with hot water",
+      "price": "$4"
+    },
+    "EighthCard": {
+      "name": "Flat White",
+      "text": "Double espresso, silky milk",
+      "price": "$5.5"
+    },
+    "NinthCard": {
+      "name": "Macchiato",
+      "text": "Espresso with milk foam",
+      "price": "$4.5"
+    },
+    "TenthCard": {
+      "name": "Affogato",
+      "text": "Vanilla ice cream and espresso",
+      "price": "$6.5"
+    },
+    "EleventhCard": {
+      "name": "Iced Latte",
+      "text": "Cold milk and espresso",
+      "price": "$6"
+    },
+    "TwelfthCard": {
+      "name": "Caramel Latte",
+      "text": "Smooth espresso with caramel",
+      "price": "$6.5"
+    }
+  },
+  "AboutHeroSection": {
+    "title": "About Us",
+    "textH3": "A small pause in a busy day.",
+    "text1H4": "WL started with one idea: coffee should feel like care.",
+    "text2H4": "We pick every bean by hand, roast in small batches,",
+    "text3H4": "and serve each cup the way we'd serve it to a friend.",
+    "textP": "Since 2020, we've been making moments a little warmer.",
+    "Badges": {
+      "firstBadge": {
+        "title": "Selected Beans",
+        "text": "Sourced from trusted farms"
+      },
+      "secondBadge": {
+        "title": "Small Batches",
+        "text": "Roasted fresh every week"
+      },
+      "thirdBadge": {
+        "title": "Made With Love",
+        "text": "Every cup, every time"
+      }
+    }
+  },
+  "ContactHeroSection": {
+    "title": "Contact",
+    "text": "Say hello. We'd love to hear from you.",
+    "SendMassage": {
+      "Name": "Name",
+      "Email": "Email",
+      "Massage": "Massage"
+    },
+    "Details": {
+      "Address": {
+        "title": "Address",
+        "text": "Intersection of Mashtots Avenue and Tumanyan Street, Yerevan."
+      },
+      "Hours": {
+        "title": "Hours",
+        "text": "Mon–Sun, 08:00–22:00"
+      },
+      "Email": {
+        "title": "Email"
+      },
+      "Phone": {
+        "title": "Phone"
+      }
+    }
+  }
+}
