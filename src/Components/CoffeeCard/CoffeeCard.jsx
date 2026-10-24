@@ -16,7 +16,7 @@ const CoffeeCard = ({ card }) => {
           WL · With Love
         </span>
       </div>
-      <div className="flex flex-1 flex-col p-4 sm:p-5">
+      <div className="flex flex-1 flex-col !p-4 sm:!p-5">
         <div className="mb-2">
           <h2 className="text-xl font-bold tracking-tight text-[var(--color1)] sm:text-2xl">
             {t(card.name)}
